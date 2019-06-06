@@ -1,0 +1,1 @@
+GRANT SELECT ON SCHEMA :: nsuryapr TO Graders
