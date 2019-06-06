@@ -1,4 +1,4 @@
-# databases
+# Databases
 sql using microsoft azure/sql server management studio.   
 
 
